@@ -1,3 +1,5 @@
+shap==0.53.0
+streamlit==1.65.0
 anyio==4.14.2
 argon2-cffi==25.1.0
 argon2-cffi-bindings==26.1.0
